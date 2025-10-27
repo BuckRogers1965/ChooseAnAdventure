@@ -1,0 +1,5 @@
+{
+  "name": "Choose Your Path Adventure Builder",
+  "description": "A GUI to build and play a choose your path adventure game. Use AI to generate locations, descriptions, and choices to bring your story to life.",
+  "requestFramePermissions": []
+}
